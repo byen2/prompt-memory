@@ -161,3 +161,6 @@ cython_debug/
 
 # openai account info
 account.info
+
+# .DS_Store
+.DS_Store
